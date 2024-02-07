@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤟🏽, I'm Chandler Gipson</h1>
-<h3 align="center">A passionate Full-stack Web developer from Washington</h3>
+<h3 align="center">A Full-stack Web developer from Washington</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandlergipson" alt="chandlergipson" /></a> </p>
 
