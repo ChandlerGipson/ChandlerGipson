@@ -1,9 +1,6 @@
 ## Hey 🤟🏽, I'm Chandler Gipson!  
   
 
-<a href="https://github.com/chandlergipson" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/chandlergipson" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -32,7 +29,7 @@
 
 </td><td valign="top" width="50%">
 
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=u86i6p42ltahfdr4q4q6qgws1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=u86i6p42ltahfdr4q4q6qgws1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=u86i6p42ltahfdr4q4q6qgws1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=u86i6p42ltahfdr4q4q6qgws1&cover_image=true&theme=default&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=000000&bar_color_cover=true)
 
 </td></tr></table>  
 
@@ -66,7 +63,7 @@
 
 </td><td valign="top" width="50%">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=ChandlerGipson&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 </td></tr></table>  
 
@@ -86,4 +83,3 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
